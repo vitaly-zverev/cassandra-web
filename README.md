@@ -1,5 +1,7 @@
 # cassandra-web
 
+[![docker pulls](https://img.shields.io/docker/pulls/vzverev/cweb.svg)](https://hub.docker.com/r/vzverev/cweb)
+
 ## Demo
 ![index](webui.gif)
 
